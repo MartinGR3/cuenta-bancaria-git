@@ -31,4 +31,4 @@
 
    Respuesta: Para proteger la rama principal y evitar cambios que puedan romper el proyecto. Normalmente se trabaja en ramas y se revisan los cambios mediante un Pull Request antes de hacer merge.
 
-## En este repositorio se encuentra las cuestionarios de capitulo 4 y 5 .
+## En este repositorio se encuentra las cuestionarios de capitulo 3 y 4 .
