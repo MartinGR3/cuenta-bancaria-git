@@ -1,0 +1,7 @@
+*   c64d83c (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from MartinGR3/feature/retiros
+|\  
+| * c15cd33 Dice cuántos retiros fueron gratis
+| * 577fc89 Muestra el número de retiros
+|/  
+* f330d16 MP-1: mi nombre en el estado de cuenta
+* e64205d MP-0: la cuenta bancaria
