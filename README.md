@@ -1,6 +1,6 @@
 # Cuenta bancaria — Git y pull requests
 
-**Autor:** Tu Nombre Completo
+**Autor:** Martin Gonzalez Rico
 
 ## Cómo correr
 
@@ -30,3 +30,5 @@
 4. ¿Por qué en un equipo nadie hace cambios directamente en `main`?
 
    Respuesta: Para proteger la rama principal y evitar cambios que puedan romper el proyecto. Normalmente se trabaja en ramas y se revisan los cambios mediante un Pull Request antes de hacer merge.
+
+## En este repositorio se encuentra las cuestionarios de capitulo 4 y 5 .
